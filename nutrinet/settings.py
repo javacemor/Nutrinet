@@ -31,7 +31,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'thenutrinet.com',
     'www.thenutrinet.com',
-    'https://javacemor.github.io/Nutrinet/',
+    'javacemor.github.io',
     ]
 
 
